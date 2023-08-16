@@ -1,2 +1,2 @@
 # miniproject.javaScript
-this is a mini project
+this is a mini project.
